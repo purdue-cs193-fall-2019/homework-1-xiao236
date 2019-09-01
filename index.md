@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Xinyi Xiao's Page
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[check out my twitch](twitch.tv/Reiskimmer) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -35,3 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+```markdown
+
+# plox make the instructions less vague thanks
+
+1. like what exactly are we supposed to edit? 
+2. just the text to demonstrate we know what's going on?
+3. or do we need to mess with some kind of theme or formatting?
+4. cuz im just following examples on this page idk.
+
+```
