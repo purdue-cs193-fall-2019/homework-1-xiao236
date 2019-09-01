@@ -1,4 +1,11 @@
-## Welcome to Xinyi Xiao's Page
+# Xinyi Xiao's First CS193 Assignment
+
+## My favorite things about CS193?
+
+- Well it's nice to finally learn how Github works
+- Teachers are chill
+- It's nice to know github but the class feels like a semi throwaway class imo
+- memes
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,10 +30,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[check out my twitch](twitch.tv/Reiskimmer) and ![Image](src)
+ ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[check out my twitch](twitch.tv/Reiskimmer) 
 
 ### Jekyll Themes
 
